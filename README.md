@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Repository for HTML homework 1
+https://tataua.github.io/goit-markup-hw-01/
